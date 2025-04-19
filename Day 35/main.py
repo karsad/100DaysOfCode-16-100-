@@ -2,7 +2,7 @@ import requests
 from twilio.rest import Client
 import os
 
-ACC_SID = "ACd8ee0095c7826d86499b0d7b625b161d"
+ACC_SID = "ACd8ee0095c7826d86499d7b625b161d"
 
 MY_LATITUDE = 6.461250
 MY_LONGITUDE = -71.734261
